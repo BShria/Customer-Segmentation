@@ -1,6 +1,6 @@
 # Customer-Segmentation
 Graduation Final year Project on Customer Segmantation and Market Analysis
-Domain: Data Analysis and Machine Learning
-Sector: Business
-Programming Language: Python
-Algorithm: K-Means Clustering Algorithm (Unsupervised Machine Learning)
+<br>Domain: Data Analysis and Machine Learning
+<br>Sector: Business
+<br>Programming Language: Python
+<br>Algorithm: K-Means Clustering Algorithm (Unsupervised Machine Learning)
